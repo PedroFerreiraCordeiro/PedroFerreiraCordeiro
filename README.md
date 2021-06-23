@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroferreiracordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="pedroferreiracordeiro" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, NodeJS,PHP, JAVA and Python.**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React, NodeJS, JAVA and Python.**
 
 - 👨‍💻 All of my projects are available at [pedromdev.com](pedromdev.com)
 
